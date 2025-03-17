@@ -18,7 +18,7 @@ Biggest difference to previously mentioned is PCB. Now there isn't an additional
   - [Case and pcb files](https://drive.google.com/file/d/1F2OR0nffseqO3x1aVwaf4AkE6jhCyLvB/view?usp=sharing) (Used software: FreeCAD and Fusion 360)
   - [Pcb schematic in pdf](https://drive.google.com/file/d/1KawKwaSzzWXQF_xuIObFZ1UPyJIFHP33/view?usp=drive_link)
 
-Raspberry Pi 5 version: https://github.com/valtsu23/DIY-Emu-Black-Dash-Rpi5
+Raspberry Pi 5 version: https://github.com/valtsu23/DIY-Emu-Black-Dash-Rpi5-V2
 
 ### Technical specs:
 - Raspberry Pi 4 Model B 4GB (will work even with 1Gb version)
